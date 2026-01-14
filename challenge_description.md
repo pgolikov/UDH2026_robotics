@@ -20,11 +20,14 @@ Teams will use:
 * AGV autonomy stack for mapping, localization, path planning, and obstacle avoidance
 * Mission‑level logic for waypoint sequencing and optimal route planning
 
-To support development, participants may use NVIDIA’s official learning resources:
-* Isaac Sim Documentation: https://docs.nvidia.com/isaacsim
-* Isaac Sim Tutorials: https://developer.nvidia.com/isaac-sim/tutorials
-* Omniverse Learning: https://docs.omniverse.nvidia.com (docs.omniverse.nvidia.com in Bing)
-* Isaac SDK Examples: https://developer.nvidia.com/isaac-sdk
+To support development, participants may use 
+* NVIDIA’s official learning resources:
+    * Isaac Sim Documentation: https://docs.nvidia.com/isaacsim
+    * Isaac Sim Tutorials: https://developer.nvidia.com/isaac-sim/tutorials
+    * Omniverse Learning: https://docs.omniverse.nvidia.com (docs.omniverse.nvidia.com in Bing)
+    * Isaac SDK Examples: https://developer.nvidia.com/isaac-sdk
+* Some tricky questions are explained here: 
+    * https://forums.developer.nvidia.com/t/how-to-create-custom-environment-and-load-in-issac-sim/300465 
 
 ## Hackathon Milestones
 ### Milestone 1 - January 18
