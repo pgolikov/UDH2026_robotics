@@ -30,7 +30,8 @@ To support development, participants may use NVIDIA’s official learning resour
 ### Milestone 1 - January 18
 * Import the organizer‑provided 3D desert terrain into Isaac Sim
 * Add and configure **one** AGV model (sensors, physics, collision geometry)
-* Demonstrate basic teleoperation or scripted movement
+* Make sure to use correct traction constants for variosus terrain: asphalt roads, sand, rocks
+* Demonstrate basic teleoperation and scripted movement
 
 ### Milestone 2 — January 20
 * Implement autonomous navigation, including:
@@ -38,11 +39,12 @@ To support development, participants may use NVIDIA’s official learning resour
   - Obstacle detection and avoidance
   - Waypoint following
 
-Demonstrate partial autonomous traversal of the environment
+* Demonstrate partial autonomous traversal of the environment
 
 ### Milestone 3 — January 22
 * Execute the full seismic exploration mission:
-  - Visit all survey points in optimal order
+  - Visit all provided survey points in optimal order
+  - Data recording is simulating by idle position holding for **60sec**
   - Complete the mission in minimal time
   - Avoid all collisions
 
