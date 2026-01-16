@@ -5,3 +5,7 @@ Open repository for Advanced Sensing, Robotics and IoT Challenge for the Aramco 
 * challenge_description.md - detailed description of the challenge
 * UDH2026_shot_points_local.csv - CSV file with local coordinates of the shot points. All coordinates are relative to the lower left corner of the topography structure. 
 * UDH2026_shot_points.pdf - few images illustrating points distribution on the map and topography structure as well as example solution for the optimal path calculation. 
+
+## Contact information
+* Pavel Golikov (pavel.golikov@aramco.com)
+![IMG_7836](https://github.com/user-attachments/assets/24b612ac-8f6c-424f-b552-be7c0ba01f99)
