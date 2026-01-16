@@ -3,7 +3,8 @@ The Robotics Challenge invites participants to design, simulate, and program an 
 
 ## Challenge Overview
 Teams will work in NVIDIA Isaac Sim to develop a high‑fidelity simulation of a desert seismic operation. To ensure realism and consistency across teams, the organizers will provide a pre‑generated 3D desert terrain surface, representing rough topography, artificial and natural obstacles.
-Terrain download link:  https://drive.google.com/file/d/1HGYjwDokWN6SuNhYVApJAxalCgsNt4VX/view?usp=share_link
+* Terrain download link:  https://drive.google.com/file/d/1HGYjwDokWN6SuNhYVApJAxalCgsNt4VX/view?usp=share_link
+* RGB TIFF image of the same area: https://drive.google.com/file/d/1Qroj90RSa-53h5Q9J-OVFE83DwpdL2e-/view?usp=share_link
 
 Participants will import this terrain into Isaac Sim and integrate an AGV capable of navigating the environment. The AGV must autonomously visit all assigned surveying points in the most efficient sequence and shortest possible time while:
 
